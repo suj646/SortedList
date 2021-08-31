@@ -1,0 +1,16 @@
+F:\DOTNET\SortedListEx\SortedListEx\bin\Debug\net5.0\SortedListEx.exe
+F:\DOTNET\SortedListEx\SortedListEx\bin\Debug\net5.0\SortedListEx.deps.json
+F:\DOTNET\SortedListEx\SortedListEx\bin\Debug\net5.0\SortedListEx.runtimeconfig.json
+F:\DOTNET\SortedListEx\SortedListEx\bin\Debug\net5.0\SortedListEx.runtimeconfig.dev.json
+F:\DOTNET\SortedListEx\SortedListEx\bin\Debug\net5.0\SortedListEx.dll
+F:\DOTNET\SortedListEx\SortedListEx\bin\Debug\net5.0\ref\SortedListEx.dll
+F:\DOTNET\SortedListEx\SortedListEx\bin\Debug\net5.0\SortedListEx.pdb
+F:\DOTNET\SortedListEx\SortedListEx\obj\Debug\net5.0\SortedListEx.csproj.AssemblyReference.cache
+F:\DOTNET\SortedListEx\SortedListEx\obj\Debug\net5.0\SortedListEx.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\SortedListEx\SortedListEx\obj\Debug\net5.0\SortedListEx.AssemblyInfoInputs.cache
+F:\DOTNET\SortedListEx\SortedListEx\obj\Debug\net5.0\SortedListEx.AssemblyInfo.cs
+F:\DOTNET\SortedListEx\SortedListEx\obj\Debug\net5.0\SortedListEx.csproj.CoreCompileInputs.cache
+F:\DOTNET\SortedListEx\SortedListEx\obj\Debug\net5.0\SortedListEx.dll
+F:\DOTNET\SortedListEx\SortedListEx\obj\Debug\net5.0\ref\SortedListEx.dll
+F:\DOTNET\SortedListEx\SortedListEx\obj\Debug\net5.0\SortedListEx.pdb
+F:\DOTNET\SortedListEx\SortedListEx\obj\Debug\net5.0\SortedListEx.genruntimeconfig.cache
